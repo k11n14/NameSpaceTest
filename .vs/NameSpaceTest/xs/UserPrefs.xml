@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0A54F678-A267-4282-116E-00B6855C62AB}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f1e94e7-25a3-4957-ade6-4c1d550f16e0" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Test_Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Test_Weapons.cs" Line="29" Column="27" />
+      <File FileName="Assets/Scripts/Test_Player.cs" Line="22" Column="46" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
